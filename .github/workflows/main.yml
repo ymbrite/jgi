@@ -30,7 +30,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repo: ${{ github.repository }}
-          author: "jrdeng"
+          author: "ymbrite"
           output_json: ./issues.json
 
       - name: Checkout current repo (to ./work_dir/)
