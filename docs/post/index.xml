@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 无名的旅人</title>
+    <link>https://briteming.github.io/jgi/post/</link>
+    <description>Recent content in Posts on 无名的旅人</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 25 Feb 2025 00:53:35 +0800</lastBuildDate><atom:link href="https://briteming.github.io/jgi/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>https://briteming.github.io/jgi/post/1/</link>
+      <pubDate>Tue, 25 Feb 2025 00:53:35 +0800</pubDate>
+      
+      <guid>https://briteming.github.io/jgi/post/1/</guid>
+      <description>看看如何？ Comments: (on github issue)</description>
+    </item>
+    
+  </channel>
+</rss>
